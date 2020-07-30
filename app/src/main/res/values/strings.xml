@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ckurtk2_project1</string>
+    <string name="welcome">Welcome!</string>
+    <string name="button1">Button 1</string>
+    <string name="button2">Button 2</string>
+    <string name="name_promt">Please Enter A Full Name</string>
+    <string name="button3">Done</string>
+</resources>
